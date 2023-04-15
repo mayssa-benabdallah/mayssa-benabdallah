@@ -70,22 +70,16 @@
 
 <br/>
 
-[![Git Stars](https://git-stars.com/share/embed/mayssa-benabdallah.svg)](https://git-stars.com/user/mayssa-benabdallah)
 
 
 
 
 
-
-![Maysa's Activity Graph](https://activity-graph.herokuapp.com/graph?username=mayssa-benabdallah&custom_title=Mayssa%20ben-abdallah%27s%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
-
-  
   
   
 ## Contact me 📫:
-- Whatsapp :  +216 428 171 
+- Whatsapp :  +216 53 428 171 
 - Linkedin : https://www.linkedin.com/in/mayssa-ben-abdallah-826407233/
-- 
 
 
 
