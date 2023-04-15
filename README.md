@@ -38,10 +38,14 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-SharePoint-13aa52?style=flat-square&logo=sharepoint&logoColor=white" />
+<img alt="Ionic 3" src="https://img.shields.io/badge/Ionic-3-yellow"/>
 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-2.6.2-green"/>
+  <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -73,31 +77,15 @@
 
 
 
-
-
-## My Statistics
-
-
-
-<br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mayssa-benabdallah&show_icons=true&theme=radical&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayssa-benabdallah&theme=radical&hide_border=true" />
-</p>
-<br>
-
 ![Maysa's Activity Graph](https://activity-graph.herokuapp.com/graph?username=mayssa-benabdallah&custom_title=Mayssa%20ben-abdallah%27s%20Contribution%20Graph&theme=radical&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
   
   
   
 ## Contact me 📫:
-[![Gmail Badge](https://img.shields.io/badge/-maissa.benabdallah@esprit.tn
--red?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:maissa.benabdallah@esprit.tn
-)](mailto:maissa.benabdallah@esprit.tn)
-[![Linkedin Badge](https://img.shields.io/badge/-mayssa-benabdallah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mayssa-ben-abdallah-826407233/)](https://www.linkedin.com/in/mayssa-benabdallah-773b01191/)
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=21653428171)
-
+- Whatsapp :  +216 428 171 
+- Linkedin : https://www.linkedin.com/in/mayssa-ben-abdallah-826407233/
+- 
 
 
 
